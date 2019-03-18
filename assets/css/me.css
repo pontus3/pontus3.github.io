@@ -62,7 +62,7 @@ img.aligncenter {
   margin-left: auto; }
 
 body {
-  background-color: #FFFFFF;
+  background-color: red;
   border-style: none; }
 
 body,
@@ -102,13 +102,15 @@ body.page-template-page-fullsingle-me {
   line-height: 60px;
   letter-spacing: -0.5px;
   color: #999999;
-  color: #fff;
+  color: #red;
   background-image: url("../../images/meer.jpg");
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
-    color: #fff; }
+    color: red;
+background: black;
+  }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
         font-size: 32px;
